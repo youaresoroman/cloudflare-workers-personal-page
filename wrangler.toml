@@ -1,0 +1,9 @@
+name = "personal-page"
+type = "webpack"
+account_id = "2c2b93a8cc4f5600280065f0313ead4c"
+zone_id = "d634655df7d16de4b2bc113def6d7ad4"
+workers_dev = true
+route = ""
+
+[site]
+bucket = "./public"
